@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+      |-----handy-ruler----------------------------------------------------|
+inspec: inspec (Auditing and Testing Framework)
+inspec:
+inspec: InSpec is an open-source testing framework for infrastructure with
+inspec: a human- and machine-readable language for specifying compliance,
+inspec: security, and policy requirements.
+inspec:
+inspec:
+inspec:
+inspec:
+inspec: Homepage:  https://inspec.io
+inspec:
