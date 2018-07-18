@@ -24,7 +24,7 @@
 
 
 PKGNAM=inspec
-RELEASE=${RELEASE:-2.1.72-1}
+RELEASE=${RELEASE:-2.2.35-1}
 
 # Allow $ARCH to be preset before running the script.  This is useful in the
 # case where someone is running a 32-bit chroot environment under an x86_64
